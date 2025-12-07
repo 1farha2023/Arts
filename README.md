@@ -4,6 +4,7 @@ This small Python script converts a video into ASCII art and plays it in the ter
 
 **Repository path:** `assci-art`
 
+
 ## Prerequisites
 
 - Python 3.8+ installed
