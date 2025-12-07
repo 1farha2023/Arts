@@ -5,7 +5,7 @@ import numpy as np
 
 def convert_frame_to_ascii(frame, width=80):
     """
-    Convert a frame to ASCII art using a character set based on brightness
+    Convert a frame to ASCII art using a character set based on brightness 
     """
 
     ascii_chars = " .:-=+*#$@"
