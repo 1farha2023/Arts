@@ -23,6 +23,7 @@ If you prefer to install manually:
 ```powershell
 python -m pip install opencv-python
 ```
+(width : 100 , fps : 60)
 
 ## Usage
 
@@ -56,11 +57,4 @@ Notes:
 - `index.py`: main script to convert and play video as ASCII art
 - `requirements.txt`: Python dependencies
 
-## License
 
-This repository does not include a license file by default. Add one if you plan to share or modify this project publicly.
-
----
-Created README and instructions to run the ASCII-art video player.
-# Arts
-Ascii art
