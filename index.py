@@ -8,7 +8,7 @@ def convert_frame_to_ascii(frame, width=80):
     Convert a frame to ASCII art using a character set based on brightness
     """
 
-    ascii_chars = " .:-=+*#%@"
+    ascii_chars = " .:-=+*#$@"
     
     height = int(frame.shape[0] * width / frame.shape[1] / 2) 
     if height == 0:
